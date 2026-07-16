@@ -1,7 +1,7 @@
 ---
 name: email-validity-check
-description: Check email address validity and status. Returns validation status and reason for each email address.
-metadata: {"version":"1.0.0","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"📧","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+description: "Verify email validity and format, cut email bounce‑rates and clean contact lists for exporters, recruiters and B2B sales teams.\n\nTrigger: email address validation, reduce email bounce rate, email‑list scrubbing, CRM data cleansing, cold outreach optimization"
+metadata: {"version":"1.0.1","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"📧","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # Email Validity Check
